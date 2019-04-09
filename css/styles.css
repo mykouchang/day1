@@ -17,3 +17,15 @@ h1 {
     border: 1px solid blue
 }
 
+.purple-text { 
+    color:purple
+}
+.list-item {
+    font-size: 24px;
+    padding: 10px;
+    text-align: center;
+    border: dotted 1px;
+    margin: 10px;
+    background-color: yellow;
+
+}
